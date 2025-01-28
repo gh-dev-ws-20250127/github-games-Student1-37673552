@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://gh-dev-ws-20250127.github.io/github-games-Student1-37673552/
+You can play the game at: https://github.com/githubschool/github-games-Student1-37673552.git
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
